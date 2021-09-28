@@ -32,7 +32,7 @@ public class SimpleIOMath {
      * @param i
      */
 
-    public int printInfo(int i) {
+    public void printInfo(int i) {
         return smallestPrime(i);
     }
 
